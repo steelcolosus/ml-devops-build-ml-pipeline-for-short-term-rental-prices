@@ -573,4 +573,4 @@ you have trained your new model on the new data.
 
 #W&B Project
 
-[eduardo-aviles/nyc_airbnb]([https://](https://wandb.ai/eduardo-avilesj/nyc_airbnb))
+[eduardo-aviles/nyc_airbnb](https://wandb.ai/eduardo-avilesj/nyc_airbnb)
