@@ -1,3 +1,7 @@
+"""
+This script contains the tests for the data_check module
+"""
+    
 import pandas as pd
 import numpy as np
 import scipy.stats

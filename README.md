@@ -569,3 +569,8 @@ you have trained your new model on the new data.
 ## License
 
 [License](LICENSE.txt)
+
+
+#W&B Project
+
+[eduardo-aviles/nyc_airbnb]([https://](https://wandb.ai/eduardo-avilesj/nyc_airbnb))
